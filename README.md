@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>Hi, I'm Alonzo! <br/><a href="=https://github.com/Alonzo65">Programmer</a>, <a href="https://www.linkedin.com/in/alonzo-marquez-rodriguez-197751291/">Backend Developer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
 
 <!--
 **Alonzo65/Alonzo65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
