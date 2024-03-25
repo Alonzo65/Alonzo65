@@ -2,6 +2,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Full Stack Chatbot (React, NodeJS, Python)</b>
+  - [CascaChat](https://github.com/Alonzo65/CascaChat) 
+
+
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="AlonzoMarquez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alonzo-marquez-rodriguez-197751291/
 <!--
 **Alonzo65/Alonzo65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
