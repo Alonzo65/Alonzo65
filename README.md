@@ -3,7 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Chatbot (React, NodeJS, Python)</b>
-  - [CascaChat](https://github.com/Alonzo65/CascaChat) 
+  - [CascaChat](https://github.com/Alonzo65/CascaChat)
+- <b>Local Library Site (NodeJS, Express)</b>
+  - [Local Library](https://github.com/Alonzo65/local-library) 
 
 
 
