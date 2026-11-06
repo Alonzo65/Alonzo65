@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alonzo! <br/><a href="=https://github.com/Alonzo65">Programmer</a>, <a href="https://www.linkedin.com/in/alonzo-marquez-rodriguez-197751291/">Backend Developer</a></h1>
+<h1>Hi, I'm Alonzo! <br/><a href="=https://github.com/Alonzo65">Programmer</a>, <a href="https://www.linkedin.com/in/alonzo-marquez-rodriguez-197751291/">Full Stack Developer/Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
