@@ -2,6 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>KXI Compiler (C, etc)</b>
+  - [KXI Compiler](https://github.com/Alonzo65/Compiler)
+- <b>FinalAssembler (C++, Assembly)</b>
+  - [FinalAssembler](https://github.com/Alonzo65/FinalAssembler)
+- <b>AssemblerVM (C++, Assembly)</b>
+  - [AssemblerVM](https://github.com/Alonzo65/AssemblerVM) 
 - <b>Full Stack Chatbot (React, NodeJS, Python)</b>
   - [CascaChat](https://github.com/Alonzo65/CascaChat)
 - <b>Local Library Site (NodeJS, Express)</b>
