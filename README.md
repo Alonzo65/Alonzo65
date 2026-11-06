@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>CompilerxAssembler (C++, Assembly, Python)</b>
-  - [CompilerxAssembler](https://github.com/Alonzo65/KXI-CompilerxAssembler)
+- <b>KXI Compiler, Assembler & Virtual Machine (C++, Assembly, Python)</b>
+  - [KXI Compiler, Assembler & Virtual Machine](https://github.com/Alonzo65/KXI-Compiler-Assembler-Virtual-Machine)
 - <b>KXI Compiler (Python)</b>
   - [KXI Compiler](https://github.com/Alonzo65/Compiler)
 - <b>AssemblerVM (C++, Assembly)</b>
